@@ -1,0 +1,16 @@
+/* dark.css - Railscasts */
+body {
+  background: #232323 !important;
+  background-color: #232323 !important;
+}
+
+/* light.css - Solarized Light */
+/*body {*/
+/*  background: #fdf6e3 !important;*/
+/*  background-color: #fdf6e3 !important;*/
+/*}*/
+
+.reveal code {
+	font-size: 2em !important;
+	line-height: 1.5em !important;
+}
