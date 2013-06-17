@@ -58,5 +58,8 @@ module Rails3
 
     # Version of your assets, change this if you want to expire all your assets
     config.assets.version = '1.0'
+
+    # bower installed assets
+    config.assets.paths << Rails.root.join('vendor', 'assets', 'components')
   end
 end
