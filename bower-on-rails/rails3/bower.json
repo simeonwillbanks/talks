@@ -1,0 +1,6 @@
+{
+  "name": "rails3",
+  "dependencies": {
+    "jquery": "~2.0.2"
+  }
+}
