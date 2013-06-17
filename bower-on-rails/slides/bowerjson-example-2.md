@@ -2,9 +2,8 @@
 {
   "name": "billiondollarwebpage",
   "dependencies": {
-    "jquery": "latest",
     "modernizr": "~2",
-    "bootstrap": "~2.3.2"
+    "jquery": "~2.0.2"
   }
 }
 ```
