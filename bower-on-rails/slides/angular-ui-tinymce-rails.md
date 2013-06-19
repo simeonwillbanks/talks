@@ -1,0 +1,1 @@
+##  angular-ui-tinymce-rails
