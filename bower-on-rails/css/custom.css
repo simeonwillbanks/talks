@@ -28,3 +28,9 @@ body {
 .reveal h2 {
   line-height: 1.1em !important;
 }
+
+#loading {
+	position: absolute;
+	left: 40px;
+	top: 40px;
+}
