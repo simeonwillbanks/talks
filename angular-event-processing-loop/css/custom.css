@@ -15,6 +15,11 @@ body {
 	line-height: 1.5em !important;
 }
 
+.reveal h2 code {
+	font-size: inherit !important;
+	line-height: inherit !important;
+}
+
 .reveal pre code {
   overflow: visible !important;
 }
