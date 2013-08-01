@@ -1,1 +1,1 @@
-##  Go Be Superheroic!
+##  Be Superheroic!

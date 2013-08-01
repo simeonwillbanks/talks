@@ -1,3 +1,2 @@
-`$scope.$apply()`
-### must wrap your code turns 
-
+## You must `apply()`
+## your code turns 

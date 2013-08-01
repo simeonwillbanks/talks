@@ -1,0 +1,5 @@
+```
+$scope.$apply(function () {
+  yourCode();
+});
+```
